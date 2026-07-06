@@ -24,12 +24,7 @@
 
 ---
 
-## 📊 Quick Stats
 
-- ⭐ Total Stars: Check my profile
-- 📦 Total Repos: Check my profile
-- 👥 Followers: Check my profile
----
 
 ## 🌐 Connect With Me
 
