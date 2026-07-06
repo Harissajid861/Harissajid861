@@ -59,9 +59,7 @@ Complete restaurant website with menu and ordering.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harissajid861&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+
 ---
 
 ## 📊 Quick Stats
@@ -71,6 +69,9 @@ Complete restaurant website with menu and ordering.
 - 👥 Followers: Check my profile
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harissajid861&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 <p align="center">
   Made with ❤️ by Muhammad Haris Sajid
