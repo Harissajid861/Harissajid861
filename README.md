@@ -21,25 +21,14 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harissajid861&show_icons=true&theme=radical&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harissajid861&theme=radical&hide_border=true" width="45%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harissajid861&layout=compact&theme=radical&hide_border=true" width="40%" />
-</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Quick Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harissajid861&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
+- ⭐ Total Stars: Check my profile
+- 📦 Total Repos: Check my profile
+- 👥 Followers: Check my profile
 ---
 
 ## 🌐 Connect With Me
@@ -56,23 +45,33 @@
 
 ---
 
-## 💻 Latest Projects
+## 💻 My Projects
 
-<div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/black-tumbler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harissajid861&repo=black-tumbler&theme=radical" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/foodies-restaurant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harissajid861&repo=foodies-restaurant&theme=radical" />
-  </a>
-</div>
+### 🍔 Black Tumbler - Coffee Shop Website
+A modern coffee shop website with smooth animations.
+- Built with: React + Tailwind CSS + Framer Motion
+- [View Project](https://github.com/Harissajid861/black-tumbler)
+
+### 🍕 Foodies Restaurant
+Complete restaurant website with menu and ordering.
+- Built with: React + Vite
+- [View Project](https://github.com/Harissajid861/foodies-restaurant)
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harissajid861&style=flat-square&color=blue" alt="Profile Views" />
 </p>
+---
+
+## 📊 Quick Stats
+
+- ⭐ Total Stars: Check my profile
+- 📦 Total Repos: Check my profile
+- 👥 Followers: Check my profile
+
+---
 
 <p align="center">
-  <strong>⭐ From <a href="https://github.com/Harissajid861">Muhammad Haris Sajid</a></strong>
+  Made with ❤️ by Muhammad Haris Sajid
 </p>
