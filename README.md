@@ -60,10 +60,10 @@
 
 <div align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME/black-tumbler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=black-tumbler&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harissajid861&repo=black-tumbler&theme=radical" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME/foodies-restaurant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=foodies-restaurant&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harissajid861&repo=foodies-restaurant&theme=radical" />
   </a>
 </div>
 
