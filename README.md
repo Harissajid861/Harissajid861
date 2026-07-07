@@ -42,15 +42,15 @@
 
 ## 💻 My Projects
 
-### 🍔 Black Tumbler - Coffee Shop Website
+### 🍔 Blavk Tumbler - Coffee Shop Website
 A modern coffee shop website with smooth animations.
 - Built with: React + Tailwind CSS + Framer Motion
-- [View Project](https://github.com/Harissajid861/black-tumbler)
+- [View Project](https://coders-coffee-orpin.vercel.app/)
 
-### 🍕 Foodies Restaurant
+### 🍕 Car Rental
 Complete restaurant website with menu and ordering.
 - Built with: React + Vite
-- [View Project](https://github.com/Harissajid861/foodies-restaurant)
+- [View Project](https://car-rental-jet-five.vercel.app/)
 
 ---
 
