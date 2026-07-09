@@ -63,9 +63,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harissajid861&theme=radical" alt="Haris's GitHub streak" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harissajid861&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harissajid861&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
 
 ---
 
