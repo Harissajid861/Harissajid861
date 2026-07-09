@@ -60,13 +60,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harissajid861&show_icons=true&theme=radical&count_private=true" alt="Haris's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harissajid861&theme=radical" alt="Haris's GitHub streak" height="165"/>
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harissajid861&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
-
----
-
+ 
 ### 🌐 Connect With Me
 
 <p align="left">
