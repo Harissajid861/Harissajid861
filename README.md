@@ -77,7 +77,7 @@ Here are some of the key projects I've built to solve problems and explore new t
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harissajid861&show_icons=true&theme=radical&hide_border=true&title_color=ff6b35&icon_color=ff6b35&text_color=ffffff&bg_color=1c1e22" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harissajid861&layout=compact&theme=radical&hide_border=true&title_color=ff6b35&text_color=ffffff&bg_color=1c1e22" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harissajid861&layout=compact&theme=radical&hide_border=true&title_color=ff6b35&text_color=ffffff&bg_color=1c1e22" alt="Top Languages" width="48%">
 </p>
 
 <p align="center">
