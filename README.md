@@ -1,8 +1,6 @@
 # Hi there! I'm Muhammad Haris Sajid 👋
 
-<p align="center">
-  <img src="./github_profile_banner.png" alt="Muhammad Haris Sajid Banner" width="100%">
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammadharissajid/" target="_blank">
